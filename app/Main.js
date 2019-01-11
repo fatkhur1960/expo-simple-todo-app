@@ -204,7 +204,7 @@ const styles = StyleSheet.create({
 	},
 	info: {
 		position: 'absolute',
-		top: 35,
+		top: 55,
 		right: 15,
 		justifyContent: 'flex-end'
 	},
