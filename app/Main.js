@@ -204,7 +204,7 @@ const styles = StyleSheet.create({
 	},
 	info: {
 		position: 'absolute',
-		top: 55,
+		top: 42,
 		right: 15,
 		justifyContent: 'flex-end'
 	},
@@ -228,6 +228,6 @@ const styles = StyleSheet.create({
 		justifyContent: 'space-between'
 	},
 	deleteAllButton: {
-		marginRight: 40
+		marginRight: 12
 	}
 });
